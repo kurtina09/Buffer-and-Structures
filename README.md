@@ -9,12 +9,9 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 ```
 /**************************************************************
 * Class:  CSC-415-0# Fall 2021
-* Name: Edel Jhon Cenario 
-* Student ID: 921121224
 * GitHub UserID: kurtina09
 * Project: Assignment 2 – Stucture in Memory and Buffering
 *
-* File: cenario_edeljhon_HW2_main.c
 *
 * Description: This is assignment 2 about Buffering and Structures. 
 *
